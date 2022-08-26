@@ -223,7 +223,7 @@
 .section-subtitle_theme_dark {
   position: relative;
   color: white;
-  margin: 20px auto 0;
+  margin: 0 auto;
   z-index: 2;
 }
 
@@ -304,6 +304,7 @@
 }
 
 .footer__column-heading {
+  margin: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
