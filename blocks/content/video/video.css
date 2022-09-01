@@ -1,0 +1,6 @@
+.video {
+  margin-top: 100px;
+  margin-bottom: -60px;
+  display: flex;
+  flex-direction: column;
+}
