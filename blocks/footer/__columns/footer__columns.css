@@ -1,9 +1,9 @@
 .footer__columns {
   height: 100%;
   width: 90%;
+  color: white;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  color: white;
   flex-grow: 1;
 }
